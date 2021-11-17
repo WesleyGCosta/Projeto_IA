@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace RedeNeural
 {
-    public class Class1
+    internal class Consciencia
     {
     }
 }

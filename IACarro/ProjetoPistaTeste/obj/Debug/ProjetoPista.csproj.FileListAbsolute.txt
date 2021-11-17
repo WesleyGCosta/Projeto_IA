@@ -1,0 +1,8 @@
+C:\Users\Wesle\OneDrive\Área de Trabalho\Projetos\Projeto_IA\IACarro\ProjetoPistaTeste\bin\Debug\ProjetoPistaTeste.exe.config
+C:\Users\Wesle\OneDrive\Área de Trabalho\Projetos\Projeto_IA\IACarro\ProjetoPistaTeste\bin\Debug\ProjetoPistaTeste.exe
+C:\Users\Wesle\OneDrive\Área de Trabalho\Projetos\Projeto_IA\IACarro\ProjetoPistaTeste\bin\Debug\ProjetoPistaTeste.pdb
+C:\Users\Wesle\OneDrive\Área de Trabalho\Projetos\Projeto_IA\IACarro\ProjetoPistaTeste\obj\Debug\ProjetoPista.csproj.AssemblyReference.cache
+C:\Users\Wesle\OneDrive\Área de Trabalho\Projetos\Projeto_IA\IACarro\ProjetoPistaTeste\obj\Debug\ProjetoPista.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wesle\OneDrive\Área de Trabalho\Projetos\Projeto_IA\IACarro\ProjetoPistaTeste\obj\Debug\ProjetoPista.csproj.CoreCompileInputs.cache
+C:\Users\Wesle\OneDrive\Área de Trabalho\Projetos\Projeto_IA\IACarro\ProjetoPistaTeste\obj\Debug\ProjetoPistaTeste.exe
+C:\Users\Wesle\OneDrive\Área de Trabalho\Projetos\Projeto_IA\IACarro\ProjetoPistaTeste\obj\Debug\ProjetoPistaTeste.pdb

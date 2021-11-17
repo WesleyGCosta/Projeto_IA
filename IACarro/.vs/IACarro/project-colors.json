@@ -1,26 +1,16 @@
 {
   "Version": 1,
   "ProjectMap": {
-    "c98c3eba-5dcd-443c-bc48-857db8755f60": {
-      "ProjectGuid": "c98c3eba-5dcd-443c-bc48-857db8755f60",
-      "DisplayName": "RedeNeural",
-      "ColorIndex": 0
-    },
-    "7ec56289-72c2-4ad2-a497-ce2f1d7c57a3": {
-      "ProjectGuid": "7ec56289-72c2-4ad2-a497-ce2f1d7c57a3",
-      "DisplayName": "IACarrinho",
-      "ColorIndex": 1
-    },
-    "a3b0d412-a710-4a55-9a1b-701efbfbc2ba": {
-      "ProjectGuid": "a3b0d412-a710-4a55-9a1b-701efbfbc2ba",
-      "DisplayName": "ProjetoPista",
-      "ColorIndex": 2
-    },
     "fd952411-98f8-479d-8cd5-b4193cfee1e8": {
       "ProjectGuid": "fd952411-98f8-479d-8cd5-b4193cfee1e8",
       "DisplayName": "ProjetoPista",
-      "ColorIndex": 3
+      "ColorIndex": 0
+    },
+    "c98c3eba-5dcd-443c-bc48-857db8755f60": {
+      "ProjectGuid": "c98c3eba-5dcd-443c-bc48-857db8755f60",
+      "DisplayName": "RedeNeural",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 4
+  "NextColorIndex": 2
 }

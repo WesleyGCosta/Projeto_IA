@@ -8,19 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\02520013206\\.nuget\\packages\\": {}
+    "C:\\Users\\Wesle\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\02520013206\\Desktop\\ProjetoPessoal\\IACarro\\AppCarrinho\\IACarrinho.csproj",
+      "projectUniqueName": "C:\\Users\\Wesle\\OneDrive\\Área de Trabalho\\Projetos\\Projeto_IA\\IACarro\\AppCarrinho\\IACarrinho.csproj",
       "projectName": "IACarrinho",
-      "projectPath": "C:\\Users\\02520013206\\Desktop\\ProjetoPessoal\\IACarro\\AppCarrinho\\IACarrinho.csproj",
-      "packagesPath": "C:\\Users\\02520013206\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\02520013206\\Desktop\\ProjetoPessoal\\IACarro\\AppCarrinho\\obj\\",
+      "projectPath": "C:\\Users\\Wesle\\OneDrive\\Área de Trabalho\\Projetos\\Projeto_IA\\IACarro\\AppCarrinho\\IACarrinho.csproj",
+      "packagesPath": "C:\\Users\\Wesle\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Wesle\\OneDrive\\Área de Trabalho\\Projetos\\Projeto_IA\\IACarro\\AppCarrinho\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\02520013206\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Wesle\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
